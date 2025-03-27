@@ -3,7 +3,7 @@ title: "Tree Growth Lab"
 Author: "Sean Pearson"
 format: 
   html:
-    output-dir: docs
+    output-dir: .
 ---
 
 ## Question 1: Read in the Minnesota tree growth dataset.
